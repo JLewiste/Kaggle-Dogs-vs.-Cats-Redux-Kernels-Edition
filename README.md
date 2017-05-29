@@ -1,4 +1,4 @@
-# Kaggle-Dogs-vs.-Cats-Redux-Kernels-Edition
+# Kaggle dogs vs cats redux kernels edition
 
 ![Pictures](Pictures/animal.jpg)
 
